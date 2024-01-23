@@ -1,0 +1,41 @@
+.colorstrip {
+
+    font-size: 25px;
+    height: 60px;
+
+    background-color: #46b9d6;
+    text-align: center;
+}
+
+img {
+
+    height: 500px;
+    display: block;
+
+    margin-right: auto;
+
+    margin-bottom: 450px;
+    float: right;
+
+}
+
+
+.text {
+    font-size: 15px;
+    padding-right: 10px;
+    margin-bottom: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-bottom: auto;
+
+    background-color: burlywood;
+
+
+}
